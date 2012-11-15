@@ -1,0 +1,19 @@
+name: BkRegister
+version: 1.0.2
+main: ru.BeYkeR_33.bkr.bkr
+description: Простой плагин для Авторизации на сервере
+author: BeYkeR_33
+website: https://github.com/BeYkeRYkt/BkRegister
+commands:
+  setpass:
+    description: Установка пароля.
+    usage: /<command> <args>
+  login:
+    description: Залогиниться.
+    useage: /<command> <args>
+  rmpass:
+    description: Удалить пароль.
+    useage: /<command> <args>
+  changepass:
+    description: Сменить пароль.
+    useage: /<command> <args>
